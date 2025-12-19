@@ -1,0 +1,9 @@
+This directory hosts analysis codes and plotting macro for producing the DCA comparison figure of primary vs. secondary tracks
+
+Full analysis codes: ana/analysis.cxx
+Simulation sample: /volatile/eic/EPIC/RECO/25.10.3/epic_craterlake/SIDIS/D0_ABCONV/pythia8.306-1.1/10x100/q2_1/hiDiv/
+
+Plotting macro: plot/plot_PrimVsSecDca.C
+Root file from running analysis codes on the full sample: plot/ep_10x100_minQ2_1_D0_25.10.3.root
+
+
