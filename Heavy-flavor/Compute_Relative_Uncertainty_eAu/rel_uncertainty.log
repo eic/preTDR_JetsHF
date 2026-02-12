@@ -1,0 +1,104 @@
+Processing RelUncertainty_D0.C(-3.0, -1.0, 0.0, 1.0)...
+------------------(ymin, ymax) = (-3.0,-1.0) 	 (ptmin, ptmax) = (0.0,1.0)--------------- 
+eAu (ML):	 S=6410.9653  B=25436.1113  S/sqrt(S+B)) =35.9243 Inverse Significance = 0.0278  rel sigma(S)/S =0.0278 
+ep (ML):	 S=1686.0507  B=8864.8350  S/Sqr(S+B) =16.4144 Inverse Significance = 0.0609  rel sigma(S)/S=0.0609
+(relative uncertainty after adding in quadrature = 0.0670 = 6.6980%)
+
+
+Processing RelUncertainty_D0.C(-3.0, -1.0, 1.0, 2.0)...
+------------------(ymin, ymax) = (-3.0,-1.0) 	 (ptmin, ptmax) = (1.0,2.0)--------------- 
+eAu (ML):	 S=3386.8691  B=18668.5332  S/sqrt(S+B)) =22.8056 Inverse Significance = 0.0438  rel sigma(S)/S =0.0438 
+ep (ML):	 S=2582.6934  B=6801.4741  S/Sqr(S+B) =26.6609 Inverse Significance = 0.0375  rel sigma(S)/S=0.0375
+(relative uncertainty after adding in quadrature = 0.0577 = 5.7703%)
+
+
+Processing RelUncertainty_D0.C(-3.0, -1.0, 2.0, 5.0)...
+------------------(ymin, ymax) = (-3.0,-1.0) 	 (ptmin, ptmax) = (2.0,5.0)--------------- 
+eAu (ML):	 S=391.8584  B=1728.8330  S/sqrt(S+B)) =8.5092 Inverse Significance = 0.1175  rel sigma(S)/S =0.1175 
+ep (ML):	 S=1295.6207  B=2588.1956  S/Sqr(S+B) =20.7897 Inverse Significance = 0.0481  rel sigma(S)/S=0.0481
+(relative uncertainty after adding in quadrature = 0.1270 = 12.6982%)
+
+
+Processing RelUncertainty_D0.C(-1.0, 1.0, 0.0, 1.0)...
+------------------(ymin, ymax) = (-1.0,1.0) 	 (ptmin, ptmax) = (0.0,1.0)--------------- 
+eAu (ML):	 S=40337.1719  B=512446.7500  S/sqrt(S+B)) =54.2535 Inverse Significance = 0.0184  rel sigma(S)/S =0.0184 
+ep (ML):	 S=154222.0625  B=2714555.2500  S/Sqr(S+B) =91.0538 Inverse Significance = 0.0110  rel sigma(S)/S=0.0110
+(relative uncertainty after adding in quadrature = 0.0215 = 2.1456%)
+
+
+Processing RelUncertainty_D0.C(-1.0, 1.0, 1.0, 2.0)...
+------------------(ymin, ymax) = (-1.0,1.0) 	 (ptmin, ptmax) = (1.0,2.0)--------------- 
+eAu (ML):	 S=22348.9199  B=128516.4688  S/sqrt(S+B)) =57.5389 Inverse Significance = 0.0174  rel sigma(S)/S =0.0174 
+ep (ML):	 S=137413.0312  B=740698.8125  S/Sqr(S+B) =146.6402 Inverse Significance = 0.0068  rel sigma(S)/S=0.0068
+(relative uncertainty after adding in quadrature = 0.0187 = 1.8670%)
+
+
+Processing RelUncertainty_D0.C(-1.0, 1.0, 2.0, 5.0)...
+------------------(ymin, ymax) = (-1.0,1.0) 	 (ptmin, ptmax) = (2.0,5.0)--------------- 
+eAu (ML):	 S=4816.6113  B=4794.2568  S/sqrt(S+B)) =49.1315 Inverse Significance = 0.0204  rel sigma(S)/S =0.0204 
+ep (ML):	 S=62358.9062  B=61546.9688  S/Sqr(S+B) =177.1546 Inverse Significance = 0.0056  rel sigma(S)/S=0.0056
+(relative uncertainty after adding in quadrature = 0.0211 = 2.1122%)
+
+
+Processing RelUncertainty_D0.C(1.0, 3.0, 0.0, 1.0)...
+------------------(ymin, ymax) = (1.0,3.0) 	 (ptmin, ptmax) = (0.0,1.0)--------------- 
+eAu (ML):	 S=87188.5234  B=1528730.1250  S/sqrt(S+B)) =68.5882 Inverse Significance = 0.0146  rel sigma(S)/S =0.0146 
+ep (ML):	 S=361005.2812  B=9929459.0000  S/Sqr(S+B) =112.5372 Inverse Significance = 0.0089  rel sigma(S)/S=0.0089
+(relative uncertainty after adding in quadrature = 0.0171 = 1.7074%)
+
+
+Processing RelUncertainty_D0.C(1.0, 3.0, 1.0, 2.0)...
+------------------(ymin, ymax) = (1.0,3.0) 	 (ptmin, ptmax) = (1.0,2.0)--------------- 
+eAu (ML):	 S=34466.7383  B=476758.5312  S/sqrt(S+B)) =48.2052 Inverse Significance = 0.0207  rel sigma(S)/S =0.0207 
+ep (ML):	 S=213335.4219  B=3725295.5000  S/Sqr(S+B) =107.4955 Inverse Significance = 0.0093  rel sigma(S)/S=0.0093
+(relative uncertainty after adding in quadrature = 0.0227 = 2.2735%)
+
+
+Processing RelUncertainty_D0.C(1.0, 3.0, 2.0, 5.0)...
+------------------(ymin, ymax) = (1.0,3.0) 	 (ptmin, ptmax) = (2.0,5.0)--------------- 
+eAu (ML):	 S=8452.6797  B=26664.5605  S/sqrt(S+B)) =45.1060 Inverse Significance = 0.0222  rel sigma(S)/S =0.0222 
+ep (ML):	 S=71480.8828  B=418493.3750  S/Sqr(S+B) =102.1182 Inverse Significance = 0.0098  rel sigma(S)/S=0.0098
+(relative uncertainty after adding in quadrature = 0.0242 = 2.4236%)
+
+
+Processing RelUncertainty_D0_ML.C(-1.0, 1.0, 0.0, 1.0)...
+------------------(ymin, ymax) = (-1.0,1.0) 	 (ptmin, ptmax) = (0.0,1.0)--------------- 
+eAu:	 S/sqrt(S+B) =85.2144 Inverse Significance = 0.0117  rel sqrt(S+B)/S =0.0117 
+ep:	 S/sqrt(S+B) =174.7298 Inverse Significance = 0.0057  rel sqrt(S+B)/S=0.0057
+(relative uncertainty  after adding in quadrature = 0.0131 = 1.3056%)
+
+
+Processing RelUncertainty_D0_ML.C(-1.0, 1.0, 1.0, 2.0)...
+------------------(ymin, ymax) = (-1.0,1.0) 	 (ptmin, ptmax) = (1.0,2.0)--------------- 
+eAu:	 S/sqrt(S+B) =70.3225 Inverse Significance = 0.0142  rel sqrt(S+B)/S =0.0142 
+ep:	 S/sqrt(S+B) =233.7784 Inverse Significance = 0.0043  rel sqrt(S+B)/S=0.0043
+(relative uncertainty  after adding in quadrature = 0.0148 = 1.4850%)
+
+
+Processing RelUncertainty_D0_ML.C(-1.0, 1.0, 2.0, 5.0)...
+------------------(ymin, ymax) = (-1.0,1.0) 	 (ptmin, ptmax) = (2.0,5.0)--------------- 
+eAu:	 S/sqrt(S+B) =49.4981 Inverse Significance = 0.0202  rel sqrt(S+B)/S =0.0202 
+ep:	 S/sqrt(S+B) =213.3073 Inverse Significance = 0.0047  rel sqrt(S+B)/S=0.0047
+(relative uncertainty  after adding in quadrature = 0.0207 = 2.0740%)
+
+
+Processing RelUncertainty_D0_ML.C(1.0, 3.0, 0.0, 1.0)...
+------------------(ymin, ymax) = (1.0,3.0) 	 (ptmin, ptmax) = (0.0,1.0)--------------- 
+eAu:	 S/sqrt(S+B) =99.7502 Inverse Significance = 0.0100  rel sqrt(S+B)/S =0.0100 
+ep:	 S/sqrt(S+B) =219.3879 Inverse Significance = 0.0046  rel sqrt(S+B)/S=0.0046
+(relative uncertainty  after adding in quadrature = 0.0110 = 1.1013%)
+
+
+Processing RelUncertainty_D0_ML.C(1.0, 3.0, 1.0, 2.0)...
+------------------(ymin, ymax) = (1.0,3.0) 	 (ptmin, ptmax) = (1.0,2.0)--------------- 
+eAu:	 S/sqrt(S+B) =59.8869 Inverse Significance = 0.0167  rel sqrt(S+B)/S =0.0167 
+ep:	 S/sqrt(S+B) =178.4749 Inverse Significance = 0.0056  rel sqrt(S+B)/S=0.0056
+(relative uncertainty  after adding in quadrature = 0.0176 = 1.7613%)
+
+
+Processing RelUncertainty_D0_ML.C(1.0, 3.0, 2.0, 5.0)...
+------------------(ymin, ymax) = (1.0,3.0) 	 (ptmin, ptmax) = (2.0,5.0)--------------- 
+eAu:	 S/sqrt(S+B) =49.4551 Inverse Significance = 0.0202  rel sqrt(S+B)/S =0.0202 
+ep:	 S/sqrt(S+B) =158.5705 Inverse Significance = 0.0063  rel sqrt(S+B)/S=0.0063
+(relative uncertainty  after adding in quadrature = 0.0212 = 2.1181%)
+
