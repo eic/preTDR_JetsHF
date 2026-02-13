@@ -60,11 +60,11 @@ void Compare_mass_ep(){
       legend->SetTextSize(0.045);
 
 
-      file[iy][ipt] = TFile::Open(Form("../Data_Preparation/Merge_Data/DzeroMassPlots_Student/DzeroInvMassCan_pTbin_%1.1f_%1.1f_%1.1f_%1.1f.root",
+      file[iy][ipt] = TFile::Open(Form("../Data_Preparation_wPID/Merge_Data/DzeroMassPlots_Student/DzeroInvMassCan_pTbin_%1.1f_%1.1f_%1.1f_%1.1f.root",
                                        y_arr[iy], y_arr[iy+1], pt_arr[ipt], pt_arr[ipt+1]));
-      fSignal = TFile::Open(Form("../Data_Preparation/Merge_Data/merged_signal_y_D0_%1.1f_%1.1f_pt_D0_%1.1f_%1.1f.root",
+      fSignal = TFile::Open(Form("../Data_Preparation_wPID/Merge_Data/merged_signal_y_D0_%1.1f_%1.1f_pt_D0_%1.1f_%1.1f.root",
                                  y_arr[iy], y_arr[iy+1], pt_arr[ipt], pt_arr[ipt+1]));
-      fBkg = TFile::Open(Form("../Data_Preparation/Merge_Data/merged_bkg_y_D0_%1.1f_%1.1f_pt_D0_%1.1f_%1.1f.root",
+      fBkg = TFile::Open(Form("../Data_Preparation_wPID/Merge_Data/merged_bkg_y_D0_%1.1f_%1.1f_pt_D0_%1.1f_%1.1f.root",
                               y_arr[iy], y_arr[iy+1], pt_arr[ipt], pt_arr[ipt+1]));
 
       TH1F *hMass = (TH1F*) file[iy][ipt]->Get(Form("hMass_%1.1f_%1.1f_%1.1f_%1.1f",
